@@ -1,0 +1,170 @@
+*{
+    margin: 0%;
+}
+
+.stick{
+    width: 500px;
+    height: 70px;
+    background-color:  goldenrod;
+    float: left;
+    margin-top: 350px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+h1{
+    color: yellow;
+    float: left;
+    margin-top: 100px;
+    margin-left:50px;
+    font-family: cursive;
+}
+.hole1,.hole2,.hole3,.hole4{
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 25px;
+    background-color: saddlebrown;
+    border-radius: 100%;
+}
+.hair1{
+    background-color: black;
+     height: 200px;
+    width: 60px;
+    float: left;
+    
+    border-bottom-left-radius: 100%;
+   
+}
+.box{
+    background-color: purple;
+    height: 300px;
+    width: 750px;
+    float: right;
+    border-bottom-left-radius: 50px;
+}
+.box1{
+    background-color: purple;
+    height: 250px;
+    width: 780px;
+    float: right;
+    border-bottom-left-radius: 80%; 
+}
+
+.box2{
+    position: fixed;
+    margin-top: 200px;
+    float: left;
+    background-color: purple;
+    height: 240px;
+    width: 850px;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 80%;
+    border-top-left-radius: 50%;
+    border-bottom: 2px #550655 solid; 
+    
+}
+.eye1,.eye2{
+    height: 80px;
+    width: 200px;
+    background-color: white;
+    border: 5px black solid;
+    border-top: 25px #2f0f5a solid;
+    float: left;
+}
+.eye1{
+    margin-left: 50px;
+     border-top-right-radius: 90%;
+    border-bottom-left-radius: 90%;
+}
+.eye2{
+    
+    margin-left: 200px;
+     border-top-left-radius: 90%;
+    border-bottom-right-radius: 90%;
+}
+.ear{
+    width: 70px;
+    height: 70px;
+    background:linear-gradient(yellow,orange);
+    border-radius: 100%;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.ear1{
+    width: 40px;
+    height: 40px;
+    float: left;
+    background-color: orangered;
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.box4{
+    
+    background-color: purple;
+    height: 300px;
+    width: 800px;
+    float: right;
+    margin-top:60px;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 50%;
+
+}
+.ball1,.ball2{
+    height: 50px;
+    width: 50px;
+    background-color: #520b0b;
+    float: right;
+    border-radius: 50%;
+    border: 5px black solid;
+}
+.ball1{
+  margin-right: 20px;  
+    margin-top: 20px;
+}
+.ball2{
+     margin-right: 35px;  
+    
+}
+.lip{
+background: linear-gradient(#ff4500,red);
+width: 150px;
+height: 30px;
+margin-top: 30px;
+    margin-left: 280px;
+    border-radius: 50%;
+}
+.tika{
+    height: 180px;
+    width: 50px;
+    background: radial-gradient(yellow,orange);
+    margin-left: 300px;
+    margin-top: 10px;
+    border-radius: 100%;
+    float: left;
+}
+.hair2{
+     height: 150px;
+    width: 120px;
+    background-color: black;
+    float: right;
+    border-bottom-left-radius: 100%;
+    
+}
+.nose{
+    width:60px;
+    height: 30px;
+    background-color: darkblue;
+    border-radius: 100%;
+    margin-top: 30px;
+    margin-left: 320px;
+    
+}
+.neck{
+     width:730px;
+    height: 150px;
+    border-bottom: 50px yellow solid;
+    border-radius: 100%;
+    margin-left: 70px;
+}
